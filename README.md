@@ -19,7 +19,6 @@ You can directly embed the script using this URL:
 
 ```html
 <script src="https://meowww.lol/cat.js"></script>
-<script src="https://raw.githubusercontent.com/LuemmelSec/spinningcat/refs/heads/main/cat.js"></script>
 ```
 
 ### 2. Fetch and Execute Inline
